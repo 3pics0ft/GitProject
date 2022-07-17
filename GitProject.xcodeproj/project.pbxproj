@@ -11,6 +11,7 @@
 		A22080AD2883860700B21CA2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22080AC2883860700B21CA2 /* ContentView.swift */; };
 		A22080AF2883860800B21CA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A22080AE2883860800B21CA2 /* Assets.xcassets */; };
 		A22080B22883860800B21CA2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A22080B12883860800B21CA2 /* Preview Assets.xcassets */; };
+		A22080BB288391A700B21CA2 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22080BA288391A700B21CA2 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A22080AC2883860700B21CA2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A22080AE2883860800B21CA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A22080B12883860800B21CA2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A22080BA288391A700B21CA2 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A22080AA2883860700B21CA2 /* GitProjectApp.swift */,
 				A22080AC2883860700B21CA2 /* ContentView.swift */,
+				A22080BA288391A700B21CA2 /* ModalView.swift */,
 				A22080AE2883860800B21CA2 /* Assets.xcassets */,
 				A22080B02883860800B21CA2 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A22080BB288391A700B21CA2 /* ModalView.swift in Sources */,
 				A22080AD2883860700B21CA2 /* ContentView.swift in Sources */,
 				A22080AB2883860700B21CA2 /* GitProjectApp.swift in Sources */,
 			);
