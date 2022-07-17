@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// added a comment for commit
+
 struct ContentView: View {
     @State private var isPresented = false
     var body: some View {
